@@ -1,6 +1,6 @@
 # Startpage
 
-[Live Preview](https://kencx.github.io/startpage/)
+[Live Preview](https://merschformann.github.io/startpage/)
 
 Feel free to fork and make your own changes!
 
@@ -10,3 +10,4 @@ Feel free to fork and make your own changes!
 
 ![startpage](startpage.gif)
 
+Find the original [here](https://github.com/kencx/startpage).
